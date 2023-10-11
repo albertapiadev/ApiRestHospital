@@ -35,3 +35,8 @@ http://localhost:8888/swagger-ui/index.html#/
 
 ![endpoints](https://github.com/albertapiadev/ApiRestHospital/assets/84749914/6d1b63dd-361c-4556-8098-6e8e2fe8418a)
 
+## Contribuciones
+<hr>
+
+![Alt](https://repobeats.axiom.co/api/embed/020f247c4314d67cb864b3d79185b56238dd5897.svg "Repobeats analytics image")
+
